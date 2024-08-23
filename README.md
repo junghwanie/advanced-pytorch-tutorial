@@ -10,7 +10,7 @@ This repository provides tutorial code for deep learning researchers to learn [P
 ## Table of Contents
 
 #### Advanced pytorch tutorial
-* [Generative Adversarial Networks](https://github.com/yunjey/pytorch-tutorial/blob/master/tutorials/03-advanced/generative_adversarial_network/main.py#L41-L57)
-* [Variational Auto-Encoder](https://github.com/yunjey/pytorch-tutorial/blob/master/tutorials/03-advanced/variational_autoencoder/main.py#L38-L65)
-* [Neural Style Transfer](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/03-advanced/neural_style_transfer)
-* [Image Captioning (CNN-RNN)](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/03-advanced/image_captioning)
+* [Generative Adversarial Networks](https://github.com/junghwanie/advanced-pytorch-tutorial/blob/main/tutorials/advanced/generative_adversarial_network/main.py#L46-L61)
+* [Variational Auto-Encoder]
+* [Neural Style Transfer]
+* [Image Captioning (CNN-RNN)]
