@@ -6,11 +6,11 @@ By pre-training the model, it learns an inner representation of images that can 
 </br>
 
 
-#### Motivation
+### Motivation
 
 In order to apply the transformer used in NLP tasks to computer vision, the transformer architecture is minimally modified to process images. And After splitting the image into patched, linearly transform it and use it as input to the transformer.
 </br>
 
-#### Architecture
+### Architecture
 
 <p align="center"><img width="100%" src="png/ViT.png" /></p>
