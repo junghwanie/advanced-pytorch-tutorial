@@ -2,7 +2,7 @@
 
 --------------------------------------------------------------------------------
 
-This repository provides tutorial code for deep learning researchers to learn [PyTorch](https://github.com/pytorch/pytorch). In the tutorial, the advanced section was referenced from [Yunjey Choi](https://github.com/yunjey/pytorch-tutorial) and before starting this tutorial, it is recommended to finish [Official Pytorch Tutorial](http://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html).
+This repository provides tutorial code for deep learning researchers to learn [PyTorch](https://github.com/pytorch/pytorch). In the tutorial, the advanced section was referenced by [Yunjey Choi](https://github.com/yunjey/pytorch-tutorial) and before starting this tutorial, it is recommended to finish [Official Pytorch Tutorial](http://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html).
 
 
 <br/>
