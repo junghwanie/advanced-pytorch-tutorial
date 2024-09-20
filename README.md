@@ -10,8 +10,8 @@ In addition, a chatbot optimized with github-based pytorch documents was develop
 
 
 <br/>
-
 <br/>
+
 ## Table of Contents
 
 #### Pytorch tutorial
