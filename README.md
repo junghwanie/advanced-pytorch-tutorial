@@ -17,4 +17,4 @@ This repository provides tutorial code for deep learning researchers to learn [P
 * [Image Captioning (CNN-RNN)]
 
 #### Project
-* [Chatbot based Pytorch Documents]
+* [Chatbot based on Pytorch Documents]
